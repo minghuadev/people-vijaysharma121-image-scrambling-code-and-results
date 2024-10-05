@@ -19,4 +19,5 @@ https://link.springer.com/article/10.1007/s11042-023-15602-8
 ## Changes ##
 
  - Convert the docx file into pdf on www.ilovepdf.com
+   - Note: Can use https://www.adobe.com/in/acrobat/online/word-to-pdf.html to convert which results in a little bigger file, at 119k vs 85k.
 
